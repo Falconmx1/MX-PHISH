@@ -8,3 +8,9 @@ reportlab
 smtplib
 email
 schedule
+flask-limiter  # para rate limiting
+flask-httpauth  # para autenticación básica
+werkzeug
+pdfkit  # para PDFs (opcional)
+plotly  # gráficas alternativas
+pandas  # para manejo de datos
