@@ -1,0 +1,13 @@
+{
+  "url": "https://tu-servidor.com/endpoint",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer tu_token_aqui"
+  },
+  "events": {
+    "new_victim": true,
+    "daily_report": true,
+    "campaign": true
+  }
+}
