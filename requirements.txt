@@ -1,6 +1,10 @@
 flask
 flask-sqlalchemy
+flask-cors
 python-dotenv
 requests
 faker
 reportlab
+smtplib
+email
+schedule
